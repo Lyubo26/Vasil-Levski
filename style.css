@@ -16,7 +16,7 @@ header {
     left: 0;
     width: 100%;
     height: 8vh;
-    background-color: #888;
+    background-color: gray;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -32,7 +32,7 @@ nav {
     top: 8vh;
     width: 20%;
     height: 92vh;
-    background-color: #888;
+    background-color: gray;
     padding-top: 20px;
 }
 
